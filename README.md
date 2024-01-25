@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Adamprogramming04/ Adam O´Donoghue
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
 - 🤝 Let's Connect I'm always open to interesting projects, collaborations, and conversations. Feel free to reach out and connect!
