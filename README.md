@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Adamprogramming04/ Adam O´Donoghue
-- 👀 I’m a software developer student
+- 👀 I’m a IoT- developer student
 - 🤝 Let's Connect I'm always open to interesting projects, collaborations, and conversations. Feel free to reach out and connect!
